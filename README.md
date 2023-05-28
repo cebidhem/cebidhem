@@ -2,11 +2,18 @@
 
 My name is Mehdi and I'm a SRE / DevOps engineer. I'm currently Director of SRE at Alluvial !
 
-<p align="center" href="https://github.com/cebidhem/cebidhem">
+<p align="center">
+<a href="https://github.com/cebidhem/cebidhem">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cebidhem&show_icons=true&theme=discord_old_blurple&rank_icon=github" />
+</a>
 </p>
-<p align="center" href="https://github.com/cebidhem/linkerd-sp-swagger-sync">
+<p align="center">
+<a href="https://github.com/cebidhem/linkerd-sp-swagger-sync">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cebidhem&repo=linkerd-sp-swagger-sync&theme=discord_old_blurple" />
+</a>
+<a href="https://github.com/cebidhem/terraform-jsonnet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cebidhem&repo=terraform-jsonnet&theme=discord_old_blurple" />
+</a>
 </p>
 
 <!--
