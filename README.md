@@ -1,13 +1,13 @@
 ### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Mehdi and I'm a SRE / DevOps engineer, currently Director of SRE at Alluvial !
+My name is Mehdi and I'm a SRE / DevOps engineer. I'm currently Director of SRE at Alluvial !
 
 <p align="center" href="https://github.com/cebidhem/cebidhem">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cebidhem&show_icons=true&theme=discord_old_blurple&rank_icon=github" />
 </p>
-<a href="https://github.com/cebidhem/linkerd-sp-swagger-sync">
+<p align="center" href="https://github.com/cebidhem/linkerd-sp-swagger-sync">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cebidhem&repo=linkerd-sp-swagger-sync&theme=discord_old_blurple" />
-</a>
+</p>
 
 <!--
 **cebidhem/cebidhem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
