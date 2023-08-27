@@ -2,6 +2,8 @@
 
 My name is Mehdi and I'm a SRE / DevOps engineer. I'm currently Director of SRE at Alluvial !
 
+I'm currently learning Solidity to be a better Web3 SRE! More to come soon!
+
 <p align="center">
 <a href="https://github.com/cebidhem/cebidhem">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cebidhem&show_icons=true&theme=discord_old_blurple&rank_icon=github" />
@@ -13,6 +15,11 @@ My name is Mehdi and I'm a SRE / DevOps engineer. I'm currently Director of SRE 
 </a>
 <a href="https://github.com/cebidhem/terraform-jsonnet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cebidhem&repo=terraform-jsonnet&theme=discord_old_blurple" />
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/cebidhem/0xn00b-foundry-fund-me">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cebidhem&repo=0xn00b-foundry-fund-me&theme=discord_old_blurple" />
 </a>
 </p>
 
