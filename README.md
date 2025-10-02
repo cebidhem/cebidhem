@@ -1,8 +1,8 @@
 ### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Mehdi and I'm a SRE / DevOps engineer. I'm currently Director of SRE at Alluvial !
+My name is Mehdi and I'm a SRE / DevOps engineer. I'm currently Principal SRE at Alluvial!
 
-I'm currently learning Solidity to be a better Web3 SRE! More to come soon!
+I'm currently learning how to use AI efficiently, and practicing it daily to scale my contributions! 
 
 <p align="center">
 <a href="https://github.com/cebidhem/cebidhem">
@@ -18,8 +18,8 @@ I'm currently learning Solidity to be a better Web3 SRE! More to come soon!
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/cebidhem/0xn00b-foundry-fund-me">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cebidhem&repo=0xn00b-foundry-fund-me&theme=discord_old_blurple" />
+<a href="https://github.com/cebidhem/git-worktree-cli/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cebidhem&repo=git-worktree-cli&theme=discord_old_blurple" />
 </a>
 </p>
 
