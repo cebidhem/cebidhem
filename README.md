@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Mehdi and I'm a SRE / DevOps engineer. I'm currently Principal SRE at Alluvial!
+My name is Mehdi and I'm a SRE / DevOps engineer.
 
 I'm currently learning how to use AI efficiently, and practicing it daily to scale my contributions! 
 
